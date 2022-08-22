@@ -1,0 +1,2298 @@
+{
+    "C0300.01": {
+        "description": "Awareness of climate change: Very aware",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0300.01",
+        "value": "18540"
+    },
+    "C0300.02": {
+        "description": "Awareness of climate change: Somewhat aware",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0300.02",
+        "value": "21417"
+    },
+    "C0300.03": {
+        "description": "Awareness of climate change: Not aware",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0300.03",
+        "value": "3624"
+    },
+    "C0300.04": {
+        "description": "Awareness of climate change: Don't know",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0300.04",
+        "value": "3855"
+    },
+    "C0400.01": {
+        "description": "Awareness of government policies and programmes: Very aware",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0400.01",
+        "value": "13008"
+    },
+    "C0400.02": {
+        "description": "Awareness of government policies and programmes: Somewhat aware",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0400.02",
+        "value": "26010"
+    },
+    "C0400.03": {
+        "description": "Awareness of government policies and programmes: Not aware",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0400.03",
+        "value": "5082"
+    },
+    "C0400.04": {
+        "description": "Awareness of government policies and programmes: Don't know",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0400.04",
+        "value": "3339"
+    },
+    "C0501": {
+        "description": "Experienced due to climate change and associated policies: Reduced demand",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0501",
+        "value": "2286"
+    },
+    "C0502": {
+        "description": "Experienced due to climate change and associated policies: Increased demand",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0502",
+        "value": "4089"
+    },
+    "C0503": {
+        "description": "Experienced due to climate change and associated policies: Increased costs under the New Zealand Emissions Trading Scheme",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0503",
+        "value": "5811"
+    },
+    "C0504": {
+        "description": "Experienced due to climate change and associated policies: Indirect cost increases via suppliers in the New Zealand Emissions Trading Scheme",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0504",
+        "value": "8520"
+    },
+    "C0505": {
+        "description": "Experienced due to climate change and associated policies: Inability to obtain insurance",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0505",
+        "value": "705"
+    },
+    "C0506": {
+        "description": "Experienced due to climate change and associated policies: Supply chain disruptions",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0506",
+        "value": "10155"
+    },
+    "C0507": {
+        "description": "Experienced due to climate change and associated policies: Impacts from weather events",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0507",
+        "value": "6339"
+    },
+    "C0508": {
+        "description": "Experienced due to climate change and associated policies: Not impacted",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0508",
+        "value": "13848"
+    },
+    "C0509": {
+        "description": "Experienced due to climate change and associated policies: None of the above",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0509",
+        "value": "8592"
+    },
+    "C0510": {
+        "description": "Experienced due to climate change and associated policies: Don't know",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0510",
+        "value": "6117"
+    },
+    "C0601.01": {
+        "description": "Impact - reduced demand: To a major extent",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0601.01",
+        "value": "1545"
+    },
+    "C0601.02": {
+        "description": "Impact - reduced demand: To a minor extent",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0601.02",
+        "value": "4353"
+    },
+    "C0601.03": {
+        "description": "Impact - reduced demand: Expect to be impacted but don\u2019t know extent",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0601.03",
+        "value": "6237"
+    },
+    "C0601.04": {
+        "description": "Impact - reduced demand: Don't expect to be impacted",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0601.04",
+        "value": "25977"
+    },
+    "C0601.05": {
+        "description": "Impact - reduced demand: Don't know",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0601.05",
+        "value": "9237"
+    },
+    "C0602.01": {
+        "description": "Impact - increased demand: To a major extent",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0602.01",
+        "value": "2346"
+    },
+    "C0602.02": {
+        "description": "Impact - increased demand: To a minor extent",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0602.02",
+        "value": "5874"
+    },
+    "C0602.03": {
+        "description": "Impact - increased demand: Expect to be impacted but don't know extent",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0602.03",
+        "value": "6972"
+    },
+    "C0602.04": {
+        "description": "Impact - increased demand: Don't expect to be impacted",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0602.04",
+        "value": "20955"
+    },
+    "C0602.05": {
+        "description": "Impact - increased demand: Don\u2019t know",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0602.05",
+        "value": "11211"
+    },
+    "C0603.01": {
+        "description": "Impact - increased costs under the New Zealand Emissions Trading Scheme: To a major extent",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0603.01",
+        "value": "6024"
+    },
+    "C0603.02": {
+        "description": "Impact - increased costs under the New Zealand Emissions Trading Scheme: To a minor extent",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0603.02",
+        "value": "5571"
+    },
+    "C0603.03": {
+        "description": "Impact - increased costs under the New Zealand Emissions Trading Scheme: Expect to be impacted but don't know extent",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0603.03",
+        "value": "11466"
+    },
+    "C0603.04": {
+        "description": "Impact - increased costs under the New Zealand Emissions Trading Scheme: Don't expect to be impacted",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0603.04",
+        "value": "11874"
+    },
+    "C0603.05": {
+        "description": "Impact - increased costs under the New Zealand Emissions Trading Scheme: Don't know",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0603.05",
+        "value": "12498"
+    },
+    "C0604.01": {
+        "description": "Impact - indirect cost increases via suppliers in the New Zealand Emissions Trading Scheme: To a major extent",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0604.01",
+        "value": "6387"
+    },
+    "C0604.02": {
+        "description": "Impact - indirect cost increases via suppliers in the New Zealand Emissions Trading Scheme: To a minor extent",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0604.02",
+        "value": "7032"
+    },
+    "C0604.03": {
+        "description": "Impact - indirect cost increases via suppliers in the New Zealand Emissions Trading Scheme: Expect to be impacted but don't know extent",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0604.03",
+        "value": "12918"
+    },
+    "C0604.04": {
+        "description": "Impact - indirect cost increases via suppliers in the New Zealand Emissions Trading Scheme: Don't expect to be impacted",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0604.04",
+        "value": "9441"
+    },
+    "C0604.05": {
+        "description": "Impact - indirect cost increases via suppliers in the New Zealand Emissions Trading Scheme: Don\u2019t know",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0604.05",
+        "value": "11661"
+    },
+    "C0605.01": {
+        "description": "Impact - inability to obtain insurance cover: To a major extent",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0605.01",
+        "value": "1398"
+    },
+    "C0605.02": {
+        "description": "Impact - inability to obtain insurance cover: To a minor extent",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0605.02",
+        "value": "2622"
+    },
+    "C0605.03": {
+        "description": "Impact - inability to obtain insurance cover: Expect to be impacted but don't know extent",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0605.03",
+        "value": "5220"
+    },
+    "C0605.04": {
+        "description": "Impact - inability to obtain insurance cover: Don't expect to be impacted",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0605.04",
+        "value": "25887"
+    },
+    "C0605.05": {
+        "description": "Impact - inability to obtain insurance cover: Don't know",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0605.05",
+        "value": "12243"
+    },
+    "C0606.01": {
+        "description": "Impact - supply chain disruptions: To a major extent",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0606.01",
+        "value": "3498"
+    },
+    "C0606.02": {
+        "description": "Impact - supply chain disruptions: To a minor extent",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0606.02",
+        "value": "8118"
+    },
+    "C0606.03": {
+        "description": "Impact - supply chain disruptions: Expect to be impacted but don't know extent",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0606.03",
+        "value": "12078"
+    },
+    "C0606.04": {
+        "description": "Impact - supply chain disruptions: Don't expect to be impacted",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0606.04",
+        "value": "13665"
+    },
+    "C0606.05": {
+        "description": "Impact - supply chain disruptions: Don't know",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0606.05",
+        "value": "10077"
+    },
+    "C0607.01": {
+        "description": "Impact - extreme weather events: To a major extent",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0607.01",
+        "value": "2847"
+    },
+    "C0607.02": {
+        "description": "Impact - extreme weather events: To a minor extent",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0607.02",
+        "value": "7116"
+    },
+    "C0607.03": {
+        "description": "Impact - extreme weather events: Expect to be impacted but don't know extent",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0607.03",
+        "value": "11052"
+    },
+    "C0607.04": {
+        "description": "Impact - extreme weather events: Don't expect to be impacted",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0607.04",
+        "value": "15591"
+    },
+    "C0607.05": {
+        "description": "Impact - extreme weather events: Don't know",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0607.05",
+        "value": "10767"
+    },
+    "C0701.01": {
+        "description": "Planning and responding to potential impacts: Yes",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0701.01",
+        "value": "10548"
+    },
+    "C0701.02": {
+        "description": "Planning and responding to potential impacts: No",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0701.02",
+        "value": "19242"
+    },
+    "C0701.03": {
+        "description": "Planning and responding to potential impacts: Not applicable",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0701.03",
+        "value": "10761"
+    },
+    "C0701.04": {
+        "description": "Planning and responding to potential impacts: Don't know",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0701.04",
+        "value": "6888"
+    },
+    "C0702.01": {
+        "description": "Planning to reduce emissions: Yes",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0702.01",
+        "value": "13350"
+    },
+    "C0702.02": {
+        "description": "Planning to reduce emissions: No",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0702.02",
+        "value": "15612"
+    },
+    "C0702.03": {
+        "description": "Planning to reduce emissions: Not applicable",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0702.03",
+        "value": "11739"
+    },
+    "C0702.04": {
+        "description": "Planning to reduce emissions: Don't know",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0702.04",
+        "value": "6741"
+    },
+    "C0703.01": {
+        "description": "Planning to develop new products/services: Yes",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0703.01",
+        "value": "8133"
+    },
+    "C0703.02": {
+        "description": "Planning to develop new products/services: No",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0703.02",
+        "value": "16773"
+    },
+    "C0703.03": {
+        "description": "Planning to develop new products/services: Not applicable",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0703.03",
+        "value": "16068"
+    },
+    "C0703.04": {
+        "description": "Planning to develop new products/services: Don't know",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0703.04",
+        "value": "6480"
+    },
+    "C0704.01": {
+        "description": "Planning to create new jobs/skills: Yes",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0704.01",
+        "value": "3372"
+    },
+    "C0704.02": {
+        "description": "Planning to create new jobs/skills: No",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0704.02",
+        "value": "19941"
+    },
+    "C0704.03": {
+        "description": "Planning to create new jobs/skills: Not applicable",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0704.03",
+        "value": "17136"
+    },
+    "C0704.04": {
+        "description": "Planning to create new jobs/skills: Don't know",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0704.04",
+        "value": "6987"
+    },
+    "C0801.01": {
+        "description": "Planning same actions by central government to reduce emissions: Yes",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0801.01",
+        "value": "10503"
+    },
+    "C0801.02": {
+        "description": "Planning same actions by central government to reduce emissions: No",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0801.02",
+        "value": "16542"
+    },
+    "C0801.03": {
+        "description": "Planning same actions by central government to reduce emissions: Not applicable",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0801.03",
+        "value": "10218"
+    },
+    "C0801.04": {
+        "description": "Planning same actions by central government to reduce emissions: Don't know",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0801.04",
+        "value": "10161"
+    },
+    "C0802.01": {
+        "description": "Planning same actions by central government to support adaptations: Yes",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0802.01",
+        "value": "9468"
+    },
+    "C0802.02": {
+        "description": "Planning same actions by central government to support adaptations: No",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0802.02",
+        "value": "16644"
+    },
+    "C0802.03": {
+        "description": "Planning same actions by central government to support adaptations: Not applicable",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0802.03",
+        "value": "10119"
+    },
+    "C0802.04": {
+        "description": "Planning same actions by central government to support adaptations: Don't know",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0802.04",
+        "value": "11193"
+    },
+    "C0803.01": {
+        "description": "Planning same actions by local government to reduce emissions: Yes",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0803.01",
+        "value": "9204"
+    },
+    "C0803.02": {
+        "description": "Planning same actions by local government to reduce emissions: No",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0803.02",
+        "value": "17013"
+    },
+    "C0803.03": {
+        "description": "Planning same actions by local government to reduce emissions: Not applicable",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0803.03",
+        "value": "9864"
+    },
+    "C0803.04": {
+        "description": "Planning same actions by local government to reduce emissions: Don't know",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0803.04",
+        "value": "11343"
+    },
+    "C0804.01": {
+        "description": "Planning same actions by local government to support adaptations: Yes",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0804.01",
+        "value": "9213"
+    },
+    "C0804.02": {
+        "description": "Planning same actions by local government to support adaptations: No",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0804.02",
+        "value": "16680"
+    },
+    "C0804.03": {
+        "description": "Planning same actions by local government to support adaptations: Not applicable",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0804.03",
+        "value": "9789"
+    },
+    "C0804.04": {
+        "description": "Planning same actions by local government to support adaptations: Don't know",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0804.04",
+        "value": "11739"
+    },
+    "C0901.01": {
+        "description": "Developed programmes to offset emissions: Done in response to climate change",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0901.01",
+        "value": "2658"
+    },
+    "C0901.02": {
+        "description": "Developed programmes to offset emissions: Done for other reason",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0901.02",
+        "value": "3249"
+    },
+    "C0901.03": {
+        "description": "Developed programmes to offset emissions: Not done",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0901.03",
+        "value": "19596"
+    },
+    "C0901.04": {
+        "description": "Developed programmes to offset emissions: Not applicable",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0901.04",
+        "value": "17625"
+    },
+    "C0901.05": {
+        "description": "Developed programmes to offset emissions: Don't know",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0901.05",
+        "value": "4275"
+    },
+    "C0902.01": {
+        "description": "Reduced waste: Done in response to climate change",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0902.01",
+        "value": "11034"
+    },
+    "C0902.02": {
+        "description": "Reduced waste: Done for some other reason",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0902.02",
+        "value": "16332"
+    },
+    "C0902.03": {
+        "description": "Reduced waste: Not done",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0902.03",
+        "value": "8403"
+    },
+    "C0902.04": {
+        "description": "Reduced waste: Not applicable",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0902.04",
+        "value": "7680"
+    },
+    "C0902.05": {
+        "description": "Reduced waste: Don't know",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0902.05",
+        "value": "4155"
+    },
+    "C0903.01": {
+        "description": "Stopped or reduced usage of coal/natural gas: Done in response to climate change",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0903.01",
+        "value": "657"
+    },
+    "C0903.02": {
+        "description": "Stopped or reduced usage of coal/natural gas: Done for some other reason",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0903.02",
+        "value": "549"
+    },
+    "C0903.03": {
+        "description": "Stopped or reduced usage of coal/natural gas: Not done",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0903.03",
+        "value": "8283"
+    },
+    "C0903.04": {
+        "description": "Stopped or reduced usage of coal/natural gas: Not applicable",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0903.04",
+        "value": "33984"
+    },
+    "C0903.05": {
+        "description": "Stopped or reduced usage of coal/natural gas: Don't know",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0903.05",
+        "value": "4065"
+    },
+    "C0904.01": {
+        "description": "Developed/expanded offering of low emission goods and services: Done in response to climate change",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0904.01",
+        "value": "2697"
+    },
+    "C0904.02": {
+        "description": "Developed/expanded offering of low emission goods and services: Done for some other reason",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0904.02",
+        "value": "2028"
+    },
+    "C0904.03": {
+        "description": "Developed/expanded offering of low emission goods and services: Not done",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0904.03",
+        "value": "10317"
+    },
+    "C0904.04": {
+        "description": "Developed/expanded offering of low emission goods and services: Not applicable",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0904.04",
+        "value": "27846"
+    },
+    "C0904.05": {
+        "description": "Developed/expanded offering of low emission goods and services: Don't know",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0904.05",
+        "value": "4581"
+    },
+    "C0905.01": {
+        "description": "Changed to lower emission technologies: Done in response to climate change",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0905.01",
+        "value": "3726"
+    },
+    "C0905.02": {
+        "description": "Changed to lower emission technologies: Done for some other reason",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0905.02",
+        "value": "2742"
+    },
+    "C0905.03": {
+        "description": "Changed to lower emission technologies: Not done",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0905.03",
+        "value": "13779"
+    },
+    "C0905.04": {
+        "description": "Changed to lower emission technologies: Not applicable",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0905.04",
+        "value": "22203"
+    },
+    "C0905.05": {
+        "description": "Changed to lower emission technologies: Don't know",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0905.05",
+        "value": "5058"
+    },
+    "C0906.01": {
+        "description": "Switched to more sustainable suppliers: Done in response to climate change",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0906.01",
+        "value": "5430"
+    },
+    "C0906.02": {
+        "description": "Switched to more sustainable suppliers: Done for some other reason",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0906.02",
+        "value": "4176"
+    },
+    "C0906.03": {
+        "description": "Switched to more sustainable suppliers: Not done",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0906.03",
+        "value": "16839"
+    },
+    "C0906.04": {
+        "description": "Switched to more sustainable suppliers: Not applicable",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0906.04",
+        "value": "15750"
+    },
+    "C0906.05": {
+        "description": "Switched to more sustainable suppliers: Don't know",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0906.05",
+        "value": "5280"
+    },
+    "C0907.01": {
+        "description": "Increased use of digital technologies: Done in response to climate change",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0907.01",
+        "value": "4839"
+    },
+    "C0907.02": {
+        "description": "Increased use of digital technologies: Done for some other reason",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0907.02",
+        "value": "18537"
+    },
+    "C0907.03": {
+        "description": "Increased use of digital technologies: Not done",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0907.03",
+        "value": "7452"
+    },
+    "C0907.04": {
+        "description": "Increased use of digital technologies: Not applicable",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0907.04",
+        "value": "12459"
+    },
+    "C0907.05": {
+        "description": "Increased use of digital technologies: Don't know",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0907.05",
+        "value": "4182"
+    },
+    "C0908.01": {
+        "description": "Assessed risks of physical impacts of climate change: Done in response to climate change",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0908.01",
+        "value": "4425"
+    },
+    "C0908.02": {
+        "description": "Assessed risks of physical impacts of climate change: Done for some other reason",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0908.02",
+        "value": "3492"
+    },
+    "C0908.03": {
+        "description": "Assessed risks of physical impacts of climate change: Not done",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0908.03",
+        "value": "17712"
+    },
+    "C0908.04": {
+        "description": "Assessed risks of physical impacts of climate change: Not applicable",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0908.04",
+        "value": "16542"
+    },
+    "C0908.05": {
+        "description": "Assessed risks of physical impacts of climate change: Don't know",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0908.05",
+        "value": "5340"
+    },
+    "C0909.01": {
+        "description": "Reduced risks of physical impacts of climate change: Done in response to climate change",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0909.01",
+        "value": "3819"
+    },
+    "C0909.02": {
+        "description": "Reduced risks of physical impacts of climate change: Done for some other reason",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0909.02",
+        "value": "3171"
+    },
+    "C0909.03": {
+        "description": "Reduced risks of physical impacts of climate change: Not done",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0909.03",
+        "value": "19329"
+    },
+    "C0909.04": {
+        "description": "Reduced risks of physical impacts of climate change: Not applicable",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0909.04",
+        "value": "15366"
+    },
+    "C0909.05": {
+        "description": "Reduced risks of physical impacts of climate change: Don't know",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C0909.05",
+        "value": "5817"
+    },
+    "C1001": {
+        "description": "Main reason business undertook action: Experienced physical impacts of climate change",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C1001",
+        "value": "6300"
+    },
+    "C1002": {
+        "description": "Main reason business undertook action: Participation in government programmes",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C1002",
+        "value": "2355"
+    },
+    "C1003": {
+        "description": "Main reason business undertook action: Demand from management/board/employees",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C1003",
+        "value": "9276"
+    },
+    "C1004": {
+        "description": "Main reason business undertook action: Pressure from competitors",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C1004",
+        "value": "2148"
+    },
+    "C1005": {
+        "description": "Main reason business undertook action: Demand from investors or shareholders",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C1005",
+        "value": "2586"
+    },
+    "C1006": {
+        "description": "Main reason business undertook action: Demand from customers",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C1006",
+        "value": "9423"
+    },
+    "C1007": {
+        "description": "Main reason business undertook action: Public opinion",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C1007",
+        "value": "8298"
+    },
+    "C1008": {
+        "description": "Main reason business undertook action: To minimise supply chain disruptions",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C1008",
+        "value": "4410"
+    },
+    "C1009": {
+        "description": "Main reason business undertook action: To take advantage of opportunities",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C1009",
+        "value": "3519"
+    },
+    "C1010": {
+        "description": "Main reason business undertook action: Potential for litigation",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C1010",
+        "value": "504"
+    },
+    "C1011": {
+        "description": "Main reason business undertook action: Other",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C1011",
+        "value": "4629"
+    },
+    "C1013": {
+        "description": "Main reason business undertook action: Did not make any changes",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C1013",
+        "value": "14052"
+    },
+    "C1014": {
+        "description": "Main reason business undertook action: Don't know",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C1014",
+        "value": "5862"
+    },
+    "C1100.01": {
+        "description": "Demand from customers to make changes: Yes",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C1100.01",
+        "value": "8490"
+    },
+    "C1100.02": {
+        "description": "Demand from customers to make changes: No",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C1100.02",
+        "value": "33750"
+    },
+    "C1100.03": {
+        "description": "Demand from customers to make changes: Don't know",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C1100.03",
+        "value": "5208"
+    },
+    "C1200.01": {
+        "description": "Demand from investors/shareholders to make changes: Yes",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C1200.01",
+        "value": "5241"
+    },
+    "C1200.02": {
+        "description": "Demand from investors/shareholders to make changes: No",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C1200.02",
+        "value": "31134"
+    },
+    "C1200.03": {
+        "description": "Demand from investors/shareholders to make changes: Not applicable",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C1200.03",
+        "value": "7662"
+    },
+    "C1200.04": {
+        "description": "Demand from investors/shareholders to make changes: Don't know",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C1200.04",
+        "value": "3417"
+    },
+    "C1301": {
+        "description": "What stopped the business from making changes: Lack of information to support decision-making",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C1301",
+        "value": "4719"
+    },
+    "C1302": {
+        "description": "What stopped the business from making changes: Lack of appropriate personnel/skills",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C1302",
+        "value": "3414"
+    },
+    "C1303": {
+        "description": "What stopped the business from making changes: Lack of management resources",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C1303",
+        "value": "6546"
+    },
+    "C1304": {
+        "description": "What stopped the business from making changes: Other business initiatives considered a higher priority",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C1304",
+        "value": "5916"
+    },
+    "C1305": {
+        "description": "What stopped the business from making changes: Too risky",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C1305",
+        "value": "633"
+    },
+    "C1306": {
+        "description": "What stopped the business from making changes: Too costly",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C1306",
+        "value": "9483"
+    },
+    "C1307": {
+        "description": "What stopped the business from making changes: Lack of viable technology",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C1307",
+        "value": "5898"
+    },
+    "C1308": {
+        "description": "What stopped the business from making changes: Difficulty raising or sourcing finance",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C1308",
+        "value": "1971"
+    },
+    "C1309": {
+        "description": "What stopped the business from making changes: Other reason(s)",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C1309",
+        "value": "1392"
+    },
+    "C1310": {
+        "description": "What stopped the business from making changes: Nothing has stopped this business from making changes",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C1310",
+        "value": "9285"
+    },
+    "C1311": {
+        "description": "What stopped the business from making changes: Not applicable",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C1311",
+        "value": "14433"
+    },
+    "C1312": {
+        "description": "What stopped the business from making changes: Don't know",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C1312",
+        "value": "6189"
+    },
+    "C1401.01": {
+        "description": "Planning to develop programs to offset emissions: Plan to do in response to climate change",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C1401.01",
+        "value": "5133"
+    },
+    "C1401.02": {
+        "description": "Planning to develop programs to offset emissions: Plan to do for some other reason",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C1401.02",
+        "value": "2625"
+    },
+    "C1401.03": {
+        "description": "Planning to develop programs to offset emissions: Not planning to do",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C1401.03",
+        "value": "16353"
+    },
+    "C1401.04": {
+        "description": "Planning to develop programs to offset emissions: Not applicable",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C1401.04",
+        "value": "15915"
+    },
+    "C1401.05": {
+        "description": "Planning to develop programs to offset emissions: Don't know",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C1401.05",
+        "value": "7410"
+    },
+    "C1402.01": {
+        "description": "Planning to reduce waste: Plan to do in response to climate change",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C1402.01",
+        "value": "15882"
+    },
+    "C1402.02": {
+        "description": "Planning to reduce waste: Plan to do for some other reason",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C1402.02",
+        "value": "14757"
+    },
+    "C1402.03": {
+        "description": "Planning to reduce waste: Not planning to do",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C1402.03",
+        "value": "4497"
+    },
+    "C1402.04": {
+        "description": "Planning to reduce waste: Not applicable",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C1402.04",
+        "value": "6861"
+    },
+    "C1402.05": {
+        "description": "Planning to reduce waste: Don't know",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C1402.05",
+        "value": "5562"
+    },
+    "C1403.01": {
+        "description": "Planning to stop/reduce using coal/natural gas: Plan to do in response to climate change",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C1403.01",
+        "value": "2148"
+    },
+    "C1403.02": {
+        "description": "Planning to stop/reduce using coal/natural gas: Plan to do for some other reason",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C1403.02",
+        "value": "948"
+    },
+    "C1403.03": {
+        "description": "Planning to stop/reduce using coal/natural gas: Not planning to do",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C1403.03",
+        "value": "6729"
+    },
+    "C1403.04": {
+        "description": "Planning to stop/reduce using coal/natural gas: Not applicable",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C1403.04",
+        "value": "32652"
+    },
+    "C1403.05": {
+        "description": "Planning to stop/reduce using coal/natural gas: Don't know",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C1403.05",
+        "value": "5010"
+    },
+    "C1404.01": {
+        "description": "Planning to develop/expand offering of low emission goods/services: Plan to do in response to climate change",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C1404.01",
+        "value": "5679"
+    },
+    "C1404.02": {
+        "description": "Planning to develop/expand offering of low emission goods/services: Plan to do for some other reason",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C1404.02",
+        "value": "2700"
+    },
+    "C1404.03": {
+        "description": "Planning to develop/expand offering of low emission goods/services: Not planning to do",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C1404.03",
+        "value": "7278"
+    },
+    "C1404.04": {
+        "description": "Planning to develop/expand offering of low emission goods/services: Not applicable",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C1404.04",
+        "value": "25434"
+    },
+    "C1404.05": {
+        "description": "Planning to develop/expand offering of low emission goods/services: Don't know",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C1404.05",
+        "value": "6333"
+    },
+    "C1405.01": {
+        "description": "Planning to change to lower emission technologies: Plan to do in response to climate change",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C1405.01",
+        "value": "8139"
+    },
+    "C1405.02": {
+        "description": "Planning to change to lower emission technologies: Plan to do for some other reason",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C1405.02",
+        "value": "4161"
+    },
+    "C1405.03": {
+        "description": "Planning to change to lower emission technologies: Not planning to do",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C1405.03",
+        "value": "8535"
+    },
+    "C1405.04": {
+        "description": "Planning to change to lower emission technologies: Not applicable",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C1405.04",
+        "value": "19131"
+    },
+    "C1405.05": {
+        "description": "Planning to change to lower emission technologies: Don\u2019t know",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C1405.05",
+        "value": "7581"
+    },
+    "C1406.01": {
+        "description": "Planning to switch to more sustainable suppliers: Plan to do in response to climate change",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C1406.01",
+        "value": "9651"
+    },
+    "C1406.02": {
+        "description": "Planning to switch to more sustainable suppliers: Plan to do for some other reason",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C1406.02",
+        "value": "4521"
+    },
+    "C1406.03": {
+        "description": "Planning to switch to more sustainable suppliers: Not planning to do",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C1406.03",
+        "value": "11250"
+    },
+    "C1406.04": {
+        "description": "Planning to switch to more sustainable suppliers: Not applicable",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C1406.04",
+        "value": "13524"
+    },
+    "C1406.05": {
+        "description": "Planning to switch to more sustainable suppliers: Don't know",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C1406.05",
+        "value": "8499"
+    },
+    "C1407.01": {
+        "description": "Planning to increase use of digital technologies: Plan to do in response to climate change",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C1407.01",
+        "value": "8073"
+    },
+    "C1407.02": {
+        "description": "Planning to increase use of digital technologies: Plan to do for some other reason",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C1407.02",
+        "value": "15054"
+    },
+    "C1407.03": {
+        "description": "Planning to increase use of digital technologies: Not planning to do",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C1407.03",
+        "value": "6423"
+    },
+    "C1407.04": {
+        "description": "Planning to increase use of digital technologies: Not applicable",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C1407.04",
+        "value": "11499"
+    },
+    "C1407.05": {
+        "description": "Planning to increase use of digital technologies: Don't know",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C1407.05",
+        "value": "6465"
+    },
+    "C1408.01": {
+        "description": "Planning to assess risk of physical impacts: Plan to do in response to climate change",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C1408.01",
+        "value": "8631"
+    },
+    "C1408.02": {
+        "description": "Planning to assess risk of physical impacts: Plan to do for some other reason",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C1408.02",
+        "value": "3972"
+    },
+    "C1408.03": {
+        "description": "Planning to assess risk of physical impacts: Not planning to do",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C1408.03",
+        "value": "9993"
+    },
+    "C1408.04": {
+        "description": "Planning to assess risk of physical impacts: Not applicable",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C1408.04",
+        "value": "16194"
+    },
+    "C1408.05": {
+        "description": "Planning to assess risk of physical impacts: Don't know",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C1408.05",
+        "value": "8661"
+    },
+    "C1409.01": {
+        "description": "Planning to take steps to reduce risk of physical impacts: Plan to do in response to climate change",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C1409.01",
+        "value": "9249"
+    },
+    "C1409.02": {
+        "description": "Planning to take steps to reduce risk of physical impacts: Plan to do for some other reason",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C1409.02",
+        "value": "3987"
+    },
+    "C1409.03": {
+        "description": "Planning to take steps to reduce risk of physical impacts: Not planning to do",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C1409.03",
+        "value": "10200"
+    },
+    "C1409.04": {
+        "description": "Planning to take steps to reduce risk of physical impacts: Not applicable",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C1409.04",
+        "value": "15153"
+    },
+    "C1409.05": {
+        "description": "Planning to take steps to reduce risk of physical impacts: Don't know",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C1409.05",
+        "value": "8901"
+    },
+    "C1500.01": {
+        "description": "Did business measure direct greenhouse gas emissions: Yes",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C1500.01",
+        "value": "2391"
+    },
+    "C1500.02": {
+        "description": "Did business measure direct greenhouse gas emissions: No",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C1500.02",
+        "value": "40431"
+    },
+    "C1500.03": {
+        "description": "Did business measure direct greenhouse gas emissions: Don't know",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C1500.03",
+        "value": "4626"
+    },
+    "C1600.01": {
+        "description": "Did business measure indirect greenhouse gas emissions: Yes",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C1600.01",
+        "value": "1563"
+    },
+    "C1600.02": {
+        "description": "Did business measure indirect greenhouse gas emissions: No",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C1600.02",
+        "value": "41091"
+    },
+    "C1600.03": {
+        "description": "Did business measure indirect greenhouse gas emissions: Don't know",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C1600.03",
+        "value": "4791"
+    },
+    "C1700.01": {
+        "description": "Does business plan to measure greenhouse gas emissions: Yes",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C1700.01",
+        "value": "4836"
+    },
+    "C1700.02": {
+        "description": "Does business plan to measure greenhouse gas emissions: No",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C1700.02",
+        "value": "29775"
+    },
+    "C1700.03": {
+        "description": "Does business plan to measure greenhouse gas emissions: Don't know",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C1700.03",
+        "value": "12510"
+    },
+    "C1800.01": {
+        "description": "Business expectation of their greenhouse gas emissions: Increase",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C1800.01",
+        "value": "315"
+    },
+    "C1800.02": {
+        "description": "Business expectation of their greenhouse gas emissions: Stay the same",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C1800.02",
+        "value": "813"
+    },
+    "C1800.03": {
+        "description": "Business expectation of their greenhouse gas emissions: Decrease",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C1800.03",
+        "value": "3375"
+    },
+    "C1800.04": {
+        "description": "Business expectation of their greenhouse gas emissions: Don't know",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C1800.04",
+        "value": "408"
+    },
+    "C1900.01": {
+        "description": "Will business try to reduce exposure to climate change impacts: Yes",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C1900.01",
+        "value": "9087"
+    },
+    "C1900.02": {
+        "description": "Will business try to reduce exposure to climate change impacts: No",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C1900.02",
+        "value": "14694"
+    },
+    "C1900.03": {
+        "description": "Will business try to reduce exposure to climate change impacts: Haven't decided yet",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C1900.03",
+        "value": "12633"
+    },
+    "C1900.04": {
+        "description": "Will business try to reduce exposure to climate change impacts: Don't know",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C1900.04",
+        "value": "11031"
+    },
+    "C2001": {
+        "description": "Top three priorities for the business: Reducing greenhouse gas emissions",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C2001",
+        "value": "3183"
+    },
+    "C2002": {
+        "description": "Top three priorities for the business: Preparing for changes in physical environment",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C2002",
+        "value": "3351"
+    },
+    "C2003": {
+        "description": "Top three priorities for the business: Business expansion",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C2003",
+        "value": "13485"
+    },
+    "C2004": {
+        "description": "Top three priorities for the business: Innovation of new products/processes",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C2004",
+        "value": "8304"
+    },
+    "C2005": {
+        "description": "Top three priorities for the business: Developing and retaining staff",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C2005",
+        "value": "30099"
+    },
+    "C2006": {
+        "description": "Top three priorities for the business: Maintaining or increasing productivity",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C2006",
+        "value": "17514"
+    },
+    "C2007": {
+        "description": "Top three priorities for the business: Maintaining or increasing profitability",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C2007",
+        "value": "28473"
+    },
+    "C2008": {
+        "description": "Top three priorities for the business: Maintaining or enhancing reputation",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C2008",
+        "value": "13059"
+    },
+    "C2009": {
+        "description": "Top three priorities for the business: Minimising supply chain disruptions",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C2009",
+        "value": "4212"
+    },
+    "C2010": {
+        "description": "Top three priorities for the business: Transitioning to exit, e.g. sale of business/retirement",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C2010",
+        "value": "7566"
+    },
+    "C2011": {
+        "description": "Top three priorities for the business: None of the above",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C2011",
+        "value": "1896"
+    },
+    "C2012": {
+        "description": "Top three priorities for the business: Don't know",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C2012",
+        "value": "3264"
+    },
+    "C2101": {
+        "description": "Business investments to reduce emissions/adapt to impacts: Purchased lower emission plant/equipment",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C2101",
+        "value": "5673"
+    },
+    "C2102": {
+        "description": "Business investments to reduce emissions/adapt to impacts: Improved efficiency of building(s)",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C2102",
+        "value": "6615"
+    },
+    "C2103": {
+        "description": "Business investments to reduce emissions/adapt to impacts: Relocated facilities to lower-risk areas",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C2103",
+        "value": "681"
+    },
+    "C2104": {
+        "description": "Business investments to reduce emissions/adapt to impacts: New software/digital technologies",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C2104",
+        "value": "8022"
+    },
+    "C2105": {
+        "description": "Business investments to reduce emissions/adapt to impacts: Education/training for staff",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C2105",
+        "value": "6126"
+    },
+    "C2106": {
+        "description": "Business investments to reduce emissions/adapt to impacts: Other",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C2106",
+        "value": "993"
+    },
+    "C2108": {
+        "description": "Business investments to reduce emissions/adapt to impacts: Did not make any investments",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C2108",
+        "value": "25173"
+    },
+    "C2109": {
+        "description": "Business investments to reduce emissions/adapt to impacts: Don't know",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C2109",
+        "value": "5610"
+    },
+    "C2201.01": {
+        "description": "Did business undertake or fund research and development in low emission products: Yes",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C2201.01",
+        "value": "2493"
+    },
+    "C2201.02": {
+        "description": "Did business undertake or fund research and development in low emission products: No",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C2201.02",
+        "value": "30396"
+    },
+    "C2201.03": {
+        "description": "Did business undertake or fund research and development in low emission products: Don't know",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C2201.03",
+        "value": "4155"
+    },
+    "C2201.04": {
+        "description": "Did business undertake or fund research and development in low emission products: Not applicable",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C2201.04",
+        "value": "10380"
+    },
+    "C2202.01": {
+        "description": "Did business undertake or fund research and development in low emission processes: Yes",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C2202.01",
+        "value": "1680"
+    },
+    "C2202.02": {
+        "description": "Did business undertake or fund research and development in low emission processes: No",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C2202.02",
+        "value": "30624"
+    },
+    "C2202.03": {
+        "description": "Did business undertake or fund research and development in low emission processes: Don't know",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C2202.03",
+        "value": "4656"
+    },
+    "C2202.04": {
+        "description": "Did business undertake or fund research and development in low emission processes: Not applicable",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C2202.04",
+        "value": "10446"
+    },
+    "C2301": {
+        "description": "Barriers for business not making related investments: Lack of necessary infrastructure",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C2301",
+        "value": "3243"
+    },
+    "C2302": {
+        "description": "Barriers for business not making related investments: Lack of information to support decision-making",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C2302",
+        "value": "6306"
+    },
+    "C2303": {
+        "description": "Barriers for business not making related investments: Difficulty in raising or sourcing funds",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C2303",
+        "value": "4602"
+    },
+    "C2304": {
+        "description": "Barriers for business not making related investments: Uncertainty around future policy direction",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C2304",
+        "value": "5940"
+    },
+    "C2305": {
+        "description": "Barriers for business not making related investments: Uncertainty about future of NZETS",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C2305",
+        "value": "4578"
+    },
+    "C2306": {
+        "description": "Barriers for business not making related investments: Risks around adopting new technology",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C2306",
+        "value": "2841"
+    },
+    "C2307": {
+        "description": "Barriers for business not making related investments: Lack of viable technology",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C2307",
+        "value": "5394"
+    },
+    "C2308": {
+        "description": "Barriers for business not making related investments: Lack of appropriate personnel/skills",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C2308",
+        "value": "5028"
+    },
+    "C2309": {
+        "description": "Barriers for business not making related investments: Other",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C2309",
+        "value": "2109"
+    },
+    "C2311": {
+        "description": "Barriers for business not making related investments: Did not see any barriers",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C2311",
+        "value": "13365"
+    },
+    "C2312": {
+        "description": "Barriers for business not making related investments: Don't know",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C2312",
+        "value": "16635"
+    },
+    "C2400.01": {
+        "description": "Most significant barrier: Lack of necessary infrastructure",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C2400.01",
+        "value": "957"
+    },
+    "C2400.02": {
+        "description": "Most significant barrier: Lack of information to support decision-making",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C2400.02",
+        "value": "2853"
+    },
+    "C2400.03": {
+        "description": "Most significant barrier: Difficulty in raising or sourcing funds",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C2400.03",
+        "value": "2874"
+    },
+    "C2400.04": {
+        "description": "Most significant barrier: Uncertainty around future policy direction",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C2400.04",
+        "value": "2526"
+    },
+    "C2400.05": {
+        "description": "Most significant barrier: Uncertainty about the future of NZETS",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C2400.05",
+        "value": "1203"
+    },
+    "C2400.06": {
+        "description": "Most significant barrier: Risks around adopting new technologies",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C2400.06",
+        "value": "951"
+    },
+    "C2400.07": {
+        "description": "Most significant barrier: Lack of viable technology",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C2400.07",
+        "value": "2844"
+    },
+    "C2400.08": {
+        "description": "Most significant barrier: Lack of appropriate personnel/skills",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C2400.08",
+        "value": "1869"
+    },
+    "C2400.09": {
+        "description": "Most significant barrier: Other barrier",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C2400.09",
+        "value": "1416"
+    },
+    "C2400.10": {
+        "description": "Most significant barrier: Don\u2019t know",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C2400.10",
+        "value": "591"
+    },
+    "C2501": {
+        "description": "Investments business is planning to make: Purchase lower emission plant/equipment",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C2501",
+        "value": "9717"
+    },
+    "C2502": {
+        "description": "Investments business is planning to make: Improve efficiency of building(s)",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C2502",
+        "value": "10458"
+    },
+    "C2503": {
+        "description": "Investments business is planning to make: Relocate facilities to lower-risk areas",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C2503",
+        "value": "879"
+    },
+    "C2504": {
+        "description": "Investments business is planning to make: New software/digital technologies",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C2504",
+        "value": "11631"
+    },
+    "C2505": {
+        "description": "Investments business is planning to make: Education/training for staff to improve resource efficienty/reduce emissions",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C2505",
+        "value": "11001"
+    },
+    "C2506": {
+        "description": "Investments business is planning to make: Research and development of low emission alternatives",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C2506",
+        "value": "3330"
+    },
+    "C2507": {
+        "description": "Investments business is planning to make: Other",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C2507",
+        "value": "435"
+    },
+    "C2509": {
+        "description": "Investments business is planning to make: Not planning to make any investments",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C2509",
+        "value": "13824"
+    },
+    "C2510": {
+        "description": "Investments business is planning to make: Don't know",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C2510",
+        "value": "9921"
+    },
+    "C2600.01": {
+        "description": "Extent business thinks private sector can support NZ's response: To a major extent",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C2600.01",
+        "value": "8490"
+    },
+    "C2600.02": {
+        "description": "Extent business thinks private sector can support NZ's response: To a moderate extent",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C2600.02",
+        "value": "14607"
+    },
+    "C2600.03": {
+        "description": "Extent business thinks private sector can support NZ's response: To a minor extent",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C2600.03",
+        "value": "9099"
+    },
+    "C2600.04": {
+        "description": "Extent business thinks private sector can support NZ's response: Not at all",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C2600.04",
+        "value": "2055"
+    },
+    "C2600.05": {
+        "description": "Extent business thinks private sector can support NZ's response: Don't know",
+        "industry": "total",
+        "level": "0",
+        "size": "total",
+        "line_code": "C2600.05",
+        "value": "13200"
+    }
+}
